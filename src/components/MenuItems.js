@@ -70,7 +70,7 @@ const MenuItems = ({ isAuthenticated, startLogout, startSetImageURL, showOnDeskt
                     </>
                 )
             }
-            <a href='https://github.com/sharonrgomez' className={itemClass} target='_blank'>
+            <a href='https://github.com/sharonrcg' className={itemClass} target='_blank'>
                 <i className='code icon' />
             </a>
         </>
